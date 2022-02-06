@@ -1,7 +1,7 @@
 # Api Photos
 Consumindo uma Api,Utilizando Futurebuilder com Listview
 
-![Screenshot_1643066965](https://user-images.githubusercontent.com/98062365/150882384-4e029212-32b0-48dd-a054-07dbd068c126.png)
+
 
 A new Flutter project.
 
