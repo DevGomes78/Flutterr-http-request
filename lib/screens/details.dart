@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 
 class Details extends StatelessWidget {
   Albums albums;
-
   Details({required this.albums});
 
   @override
@@ -12,8 +11,9 @@ class Details extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.blue,
-        title: Text('Detalhes do produto'),
+        backgroundColor: Colors.purple,
+        title: Text('Detalhes'),
+        centerTitle: true,
       ),
       body: buildPadding(),
     );

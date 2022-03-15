@@ -9,15 +9,15 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.purple,
         title: Text(
-          'Lista de Usuarios',
-          style: AppTextstyle.TextFont22,
+          'Lista de Albums',
+          style: AppTextstyle.TextFont23,
         ),
         centerTitle: true,
         elevation: 0,
       ),
-      body: ListAlbum(),
+      body: const ListAlbum(),
     );
   }
 }

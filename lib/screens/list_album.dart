@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 
 class ListAlbum extends StatelessWidget {
   const ListAlbum({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -15,7 +14,7 @@ class ListAlbum extends StatelessWidget {
         future: getAlbums(),
         builder: (context, snapshot) {
           if (snapshot.data == null) {
-            return Center(
+            return const Center(
               child: CircularProgressIndicator(),
             );
           } else {

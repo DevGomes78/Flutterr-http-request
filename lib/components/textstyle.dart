@@ -16,4 +16,9 @@ class AppTextstyle{
     fontWeight:  FontWeight.normal,
     color:  Colors.grey,
   );
+  static TextStyle TextFont23 = const TextStyle(
+    fontSize: 22,
+    fontWeight:  FontWeight.normal,
+    color:  Colors.white,
+  );
 }
