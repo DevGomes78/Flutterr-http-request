@@ -1,5 +1,6 @@
-# Flutter FutureBuilder http
-Consumindo uma Api,Utilizando Futurebuilder e montrando em uma Listview
+# app Flutter,utilizando a dependencia http para consumir
+uma Api, e mostrando os dados em uma Listview.
+
 
 ![httpGet](https://user-images.githubusercontent.com/98062365/152695353-d38e4e20-e60e-4cbc-9ebd-11f0ec3dc272.gif)
 
