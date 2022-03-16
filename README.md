@@ -1,4 +1,4 @@
-# app Flutter,utilizando a dependencia http para consumir
+# App Flutter,utilizando a dependencia http para consumir
 uma Api, e mostrando os dados em uma Listview.
 
 
